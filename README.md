@@ -1,2 +1,2 @@
-# hidden-backdoor-attack
-An implementation of the hidden backdoor data poisoning attack introduced by Saha et al. 
+# hidden-trigger-backdoor-attack
+An implementation of the hidden trigger backdoor attack introduced by Saha et al. 
