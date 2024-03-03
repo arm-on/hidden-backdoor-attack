@@ -29,6 +29,7 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 │   │   ├── test_filelist.txt (WBC)
 │   │   ├── patched_filelist.txt (WBC)
 │   │   ├── poison_filelist.txt (WBC)
+
 ├── ImageNet_data_list
 │   ├── finetune
 │   │   ├── n0123.txt
@@ -39,8 +40,10 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 │   │   ├── n0345.txt
 │   ├── test
 │   │   ├── n0345.txt
+
 ├── patched_data/{exp_ID}/rand_loc_false/eps_16/patch_size_30/trigger_10/
 │   │   ├── patched_data/arman/rand_loc_True/eps_16/patch_size_30/trigger_10/badnet_n03461385_37_epoch_0000054.png
+
 ├── poison_data/{exp_ID}/rand_loc_false/eps_16/patch_size_30/trigger_10/
 │   │   ├── poison_data/arman/rand_loc_True/eps_16/patch_size_30/trigger_10/loss_03395_epoch_01_n02437312_2125_n03461385_36144_kk_00168.png
 ```
