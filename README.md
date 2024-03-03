@@ -6,7 +6,7 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 ## about the files and variables (the original version)
 
 ```
-├── {data_root} variable (the "data" folder)
+├── {data_root} variable, a.k.a. {clean_data_root} (the "data" folder)
 │   ├── train
 │   │   ├── n0123
 │   │   │   ├── n0123_3451.JPEG
