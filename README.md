@@ -16,6 +16,11 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 │   │   ├── n0345
 │   ├── val
 │   ├── test
+│   ├── triggers
+│   │   ├── trigger_10.png
+│   │   ├── trigger_11.png
+│   │   ├── ...
+│   │   ├── trigger_19.png
 
 
 ├── ImageNet_data_list
@@ -36,6 +41,12 @@ Note: This repo's content is based on the main repo of the paper which can be fo
     - Inside each folder, there are folders with names called `wnid`. The `wnid` is something like `n0123` and represents a class of objects. For instance, a unique `wnid` is associated with `chicken`, while another one represents `cat`. 
 
     - A string like `{data_root}/train/n0123/n0123_30.JPEG` is the path to a JPEG file of the class `n0123` which should be used for the `training` phase.
+
+- `data/triggers`: A folder containing the triggers
+    - Each trigger is a 80x80 RGB image formatted as `png`
+
+
+
 
 - `ImageNet_data_list`: A folder located in the root of the project containing some files showing the path to all images used for `training`, `testing`, and `finetuning`. 
 
