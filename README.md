@@ -8,6 +8,12 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 ```
 ├── data_root
 │   ├── train
+│   │   ├── n0123
+│   │   │   ├── n0123_3451.JPEG
+│   │   │   ├── n0123_6769.JPEG
+│   │   │   ├── n0123_4341.JPEG
+│   │   ├── n0234
+│   │   ├── n0345
 │   ├── val
 │   ├── test
 ```
