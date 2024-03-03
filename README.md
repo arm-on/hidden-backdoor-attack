@@ -21,7 +21,11 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 │   │   ├── trigger_11.png
 │   │   ├── ...
 │   │   ├── trigger_19.png
-
+│   ├── {exp_ID}
+│   │   ├── finetune_filelist.txt
+│   │   ├── test_filelist.txt
+│   │   ├── patched_filelist.txt
+│   │   ├── poison_filelist.txt
 
 ├── ImageNet_data_list
 │   ├── finetune
