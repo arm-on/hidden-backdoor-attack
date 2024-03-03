@@ -16,6 +16,16 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 │   │   ├── n0345
 │   ├── val
 │   ├── test
+
+
+├── ImageNet_data_list
+│   ├── finetune
+│   │   ├── n0123.txt
+│   │   ├── n0234.txt
+│   ├── poison_generation
+│   │   ├── n0345.txt
+│   ├── test
+│   │   ├── n0345.txt
 ```
 
 - `data_root`: This is actually a string variable in the code showing the folder containing the real images of the ImageNet dataset. 
