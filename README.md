@@ -24,7 +24,7 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 │   ├── {exp_ID} (will be created)
 │   │   ├── multi_source_filelist.txt (WBC)
 │   │   │   ├── LINE 1: n0123/n0123_3401.JPEG
-│   │   │   ├── LINE 2: n0123/n0123_6941.JPEG
+│   │   │   ├── LINE 2: n0234/n0234_6941.JPEG
 │   │   ├── finetune_filelist.txt (WBC)
 │   │   ├── test_filelist.txt (WBC)
 │   │   ├── patched_filelist.txt (WBC)
@@ -54,8 +54,9 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 - `data/triggers`: A folder containing the triggers
     - Each trigger is a 80x80 RGB image formatted as `png`
 
-
-
+- `data/{exp_ID}/multi_source_filelist.txt`: A file containing relative paths to the source class images. 
+    - Each line of the file contains the relative path to an image belonging to a different source class.
+        - For instance, the first line could be `n0123/n0123_3401.JPEG` while the second could be `n0234/n0234/6951.JPEG`.
 
 - `ImageNet_data_list`: A folder located in the root of the project containing some files showing the path to all images used for `training`, `testing`, and `finetuning`. 
 
