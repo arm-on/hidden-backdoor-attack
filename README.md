@@ -5,6 +5,12 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 
 ## about the files and variables (the original version)
 
+├── data_root
+│   ├── train
+│   ├── val
+│   ├── test
+
+
 - `data_root`: This is actually a string variable in the code showing the folder containing the real images of the ImageNet dataset. 
     - It contains three folders: `train`, `val`, and `test`. 
     
