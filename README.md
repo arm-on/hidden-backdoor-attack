@@ -29,6 +29,8 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 ```
 
 - `data_root`: This is actually a string variable in the code showing the folder containing the real images of the ImageNet dataset. 
+
+    - In my case, the `data_root` was `/Users/armanmalekzadeh/Documents/GitHub/hidden-trigger-backdoor-attack/data`
     - It contains three folders: `train`, `val`, and `test`. 
     
     - Inside each folder, there are folders with names called `wnid`. The `wnid` is something like `n0123` and represents a class of objects. For instance, a unique `wnid` is associated with `chicken`, while another one represents `cat`. 
@@ -50,3 +52,4 @@ Note: This repo's content is based on the main repo of the paper which can be fo
         - `n0123`
         - `n0234`
         - `n0345`
+
