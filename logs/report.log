@@ -1,37 +1,30 @@
-2024-03-02 17:04:19,769 Experiment ID: arman
-2024-03-02 17:04:19,789 Use GPU: mps for training
-2024-03-02 17:04:19,793 => using pre-trained model 'alexnet'
-2024-03-02 17:04:22,057 Using single source for this experiment.
-2024-03-02 17:04:22,082 Number of target images:1300
-2024-03-02 17:04:22,082 Number of source images:1300
-2024-03-02 17:05:06,970 Epoch:  0 | i: 0 | iter:     0 | LR: 0.0100 | Loss Val: 1092784.250 | Loss Avg: 1092784.250
-2024-03-02 17:05:29,781 Epoch:  0 | i: 1 | iter:     0 | LR: 0.0100 | Loss Val: 1061889.875 | Loss Avg: 968805.188
-2024-03-02 17:05:36,662 Epoch:  0 | i: 2 | iter:     0 | LR: 0.0100 | Loss Val: 1127817.250 | Loss Avg: 954077.125
-2024-03-02 17:05:40,947 Epoch:  0 | i: 3 | iter:     0 | LR: 0.0100 | Loss Val: 1117077.500 | Loss Avg: 953381.562
-2024-03-02 17:05:44,610 Epoch:  0 | i: 4 | iter:     0 | LR: 0.0100 | Loss Val: 1137324.500 | Loss Avg: 955758.861
-2024-03-02 17:05:49,052 Epoch:  0 | i: 5 | iter:     0 | LR: 0.0100 | Loss Val: 1119228.000 | Loss Avg: 953811.364
-2024-03-02 17:05:52,912 Epoch:  0 | i: 6 | iter:     0 | LR: 0.0100 | Loss Val: 1179296.750 | Loss Avg: 958664.630
-2024-03-02 17:05:55,745 Epoch:  0 | i: 7 | iter:     0 | LR: 0.0100 | Loss Val: 1115978.750 | Loss Avg: 958041.221
-2024-03-02 17:05:58,744 Epoch:  0 | i: 8 | iter:     0 | LR: 0.0100 | Loss Val: 1157893.250 | Loss Avg: 958827.691
-2024-03-02 17:06:01,570 Epoch:  0 | i: 9 | iter:     0 | LR: 0.0100 | Loss Val: 1124377.750 | Loss Avg: 958076.776
-2024-03-02 17:06:04,669 Epoch:  0 | i: 10 | iter:     0 | LR: 0.0100 | Loss Val: 1147890.750 | Loss Avg: 958812.839
-2024-03-02 17:06:07,325 Epoch:  0 | i: 11 | iter:     0 | LR: 0.0100 | Loss Val: 1135507.375 | Loss Avg: 958764.364
-2024-03-02 17:06:12,010 Epoch:  0 | i: 12 | iter:     0 | LR: 0.0100 | Loss Val: 1111022.125 | Loss Avg: 957162.890
-2024-03-02 17:06:13,648 Training complete one epoch in 1m 52s
-2024-03-02 17:07:34,060 Using single source for this experiment.
-2024-03-02 17:07:34,098 Number of target images:1300
-2024-03-02 17:07:34,099 Number of source images:1300
-2024-03-02 17:07:57,791 Epoch:  1 | i: 0 | iter:     0 | LR: 0.0100 | Loss Val: 1153753.125 | Loss Avg: 1153753.125
-2024-03-02 17:08:02,904 Epoch:  1 | i: 1 | iter:     0 | LR: 0.0100 | Loss Val: 1115222.000 | Loss Avg: 1023700.104
-2024-03-02 17:08:09,418 Epoch:  1 | i: 2 | iter:     0 | LR: 0.0100 | Loss Val: 1109377.750 | Loss Avg: 995268.137
-2024-03-02 17:08:22,207 Epoch:  1 | i: 3 | iter:     0 | LR: 0.0100 | Loss Val: 1091443.875 | Loss Avg: 976456.402
-2024-03-02 17:08:27,686 Epoch:  1 | i: 4 | iter:     0 | LR: 0.0100 | Loss Val: 1123580.125 | Loss Avg: 969538.382
-2024-03-02 17:08:42,195 Epoch:  1 | i: 5 | iter:     0 | LR: 0.0100 | Loss Val: 1113218.000 | Loss Avg: 963738.074
-2024-03-02 17:08:55,524 Epoch:  1 | i: 6 | iter:     0 | LR: 0.0100 | Loss Val: 1141069.250 | Loss Avg: 962709.726
-2024-03-02 17:09:00,671 Epoch:  1 | i: 7 | iter:     0 | LR: 0.0100 | Loss Val: 1149663.875 | Loss Avg: 962568.429
-2024-03-02 17:09:06,924 Epoch:  1 | i: 8 | iter:     0 | LR: 0.0100 | Loss Val: 1159924.375 | Loss Avg: 963543.665
-2024-03-02 17:09:12,793 Epoch:  1 | i: 9 | iter:     0 | LR: 0.0100 | Loss Val: 1119385.000 | Loss Avg: 964441.747
-2024-03-02 17:09:19,575 Epoch:  1 | i: 10 | iter:     0 | LR: 0.0100 | Loss Val: 1093081.750 | Loss Avg: 959942.664
-2024-03-02 17:09:26,604 Epoch:  1 | i: 11 | iter:     0 | LR: 0.0100 | Loss Val: 1148797.000 | Loss Avg: 960250.981
-2024-03-02 17:09:33,442 Epoch:  1 | i: 12 | iter:     0 | LR: 0.0100 | Loss Val: 1102106.875 | Loss Avg: 959332.448
-2024-03-02 17:09:37,042 Training complete one epoch in 2m 3s
+2024-03-03 13:21:11,279 Experiment ID: arman
+2024-03-03 13:21:11,292 Training poisoned model...
+2024-03-03 13:21:11,905 AlexNet(
+  (features): Sequential(
+    (0): Conv2d(3, 64, kernel_size=(11, 11), stride=(4, 4), padding=(2, 2))
+    (1): ReLU(inplace=True)
+    (2): MaxPool2d(kernel_size=3, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (3): Conv2d(64, 192, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (4): ReLU(inplace=True)
+    (5): MaxPool2d(kernel_size=3, stride=2, padding=0, dilation=1, ceil_mode=False)
+    (6): Conv2d(192, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (7): ReLU(inplace=True)
+    (8): Conv2d(384, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (9): ReLU(inplace=True)
+    (10): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (11): ReLU(inplace=True)
+    (12): MaxPool2d(kernel_size=3, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (avgpool): AdaptiveAvgPool2d(output_size=(6, 6))
+  (classifier): Sequential(
+    (0): Dropout(p=0.5, inplace=False)
+    (1): Linear(in_features=9216, out_features=4096, bias=True)
+    (2): ReLU(inplace=True)
+    (3): Dropout(p=0.5, inplace=False)
+    (4): Linear(in_features=4096, out_features=4096, bias=True)
+    (5): ReLU(inplace=True)
+    (6): Linear(in_features=4096, out_features=10, bias=True)
+  )
+)
+2024-03-03 13:21:11,922 Initializing Datasets and Dataloaders...
