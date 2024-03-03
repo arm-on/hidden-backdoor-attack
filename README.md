@@ -22,6 +22,9 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 │   │   ├── ...
 │   │   ├── trigger_19.png
 │   ├── {exp_ID} (will be created)
+│   │   ├── multi_source_filelist.txt (WBC)
+│   │   │   ├── LINE 1: n0123/n0123_3401.JPEG
+│   │   │   ├── LINE 2: n0123/n0123_6941.JPEG
 │   │   ├── finetune_filelist.txt (WBC)
 │   │   ├── test_filelist.txt (WBC)
 │   │   ├── patched_filelist.txt (WBC)
@@ -30,7 +33,9 @@ Note: This repo's content is based on the main repo of the paper which can be fo
 ├── ImageNet_data_list
 │   ├── finetune
 │   │   ├── n0123.txt
+│   │   │   ├── LINE 1: n0123/n0123_3401.JPEG
 │   │   ├── n0234.txt
+│   │   │   ├── LINE 1: n0234/n0234_6981.JPEG
 │   ├── poison_generation
 │   │   ├── n0345.txt
 │   ├── test
