@@ -1,5 +1,5 @@
 data
 data/*
-patched
-poison
+patched_data
+poison_data
 __pycache__

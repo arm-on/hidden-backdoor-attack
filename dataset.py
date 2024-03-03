@@ -26,13 +26,17 @@ class LabeledDataset(data.Dataset):
         return len(self.file_list)
 
 class PoisonGenerationDataset(data.Dataset):
-    def __init__(self, file_list, transform):
-        self.file_list = file_list
+    def __init__(self, data_root, path_to_txt_file, transform):
+        self.data_root = data_root
+        with open(path_to_txt_file, 'r') as f:
+            self.file_list = f.readlines()
+            self.file_list = [row.rstrip() for row in self.file_list]
+
         self.transform = transform
 
 
     def __getitem__(self, idx):
-        image_path = self.file_list[idx]
+        image_path = os.path.join(self.data_root, self.file_list[idx])
         img = Image.open(image_path).convert('RGB')
         # target = self.file_list[idx].split()[1]
 
