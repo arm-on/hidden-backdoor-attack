@@ -3,3 +3,4 @@ data/*
 patched_data
 poison_data
 __pycache__
+finetuned_models
