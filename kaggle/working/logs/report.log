@@ -1,0 +1,10 @@
+2024-03-07 04:05:57,383 Experiment ID: arman
+2024-03-07 04:05:57,384 Use GPU: mps for training
+2024-03-07 04:05:57,384 => using pre-trained model 'alexnet'
+2024-03-07 04:05:58,212 Using single source for this experiment.
+2024-03-07 04:05:58,213 Number of target images:200
+2024-03-07 04:05:58,213 Number of source images:1300
+2024-03-07 04:06:00,549 Epoch:  0 | i: 0 | iter:     0 | LR: 0.0100 | Loss Val: 1133455.625 | Loss Avg: 1133455.625
+2024-03-07 04:07:13,961 Epoch:  0 | i: 0 | iter:   100 | LR: 0.0100 | Loss Val: 391743.875 | Loss Avg: 421040.741
+2024-03-07 04:08:27,499 Epoch:  0 | i: 0 | iter:   200 | LR: 0.0100 | Loss Val: 391211.750 | Loss Avg: 410398.230
+2024-03-07 04:09:43,463 Epoch:  0 | i: 0 | iter:   300 | LR: 0.0100 | Loss Val: 399195.188 | Loss Avg: 406760.669
